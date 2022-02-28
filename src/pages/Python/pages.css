@@ -1,0 +1,50 @@
+.center {
+    text-align: center;
+}
+
+.tab5 {
+    margin-left: 20px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.texty {
+    font-size: 12px;
+}
+
+.smtexty {
+  font-size: x-small;
+}
+
+img {
+    width: 100px;
+}
+
+  .card {
+    font-size: 20px;
+  }
+  
+  img {
+    width: 150px;
+  }
+  
+  .white {
+    color: aliceblue;
+  }
+
+  .notes {
+    font-style: initial;
+    font-size: 10px;
+    color: blue;
+}
+
+  card {
+    height: "100vh"
+  }
+
+  .smallbuttonspy{
+    background-color: black;
+    font-size: 5px;
+  }
